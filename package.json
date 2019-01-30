@@ -1,0 +1,19 @@
+{
+  "name": "portfoliov2",
+  "version": "1.0.0",
+  "description": "Rylans v2 portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rylanconway/portfolioV2.git"
+  },
+  "author": "Rylan Conway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rylanconway/portfolioV2/issues"
+  },
+  "homepage": "https://github.com/rylanconway/portfolioV2#readme"
+}
